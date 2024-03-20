@@ -1,0 +1,45 @@
+body{
+    font: normal 15pt Arial;
+    padding: 15px;
+    background-image: linear-gradient(45deg,cyan,yellow);
+}
+.enviar{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1{
+    text-align: center;
+}
+.form{
+    padding: 15px;
+    margin: 20px auto;
+    text-align: center;
+    height: 200px;
+    background: rgb(0, 0, 0);
+    width: 200px;
+    border-radius: 15px;
+    line-height: 1.5;
+    color: aliceblue;
+}
+button{
+    text-align: center;
+    margin: auto;
+    display: block;
+    line-height: 1.5;
+    border-radius: 10px;
+    font: normal auto Arial;
+    cursor: pointer;
+    
+
+}
+footer{
+    font-style: italic;
+    text-align: center;
+}
+.astro2{
+    display: block;
+    margin: auto;
+    width: 25vw;
+}
